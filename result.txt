@@ -1,0 +1,11 @@
+========TEST 1========
+- Buffer Size: 1500
+- Total time required --> 0.003464 seconds
+
+========TEST 2========
+- Buffer Size: 5200
+- Total time required --> 0.005611 seconds
+
+========TEST 3========
+- Buffer Size: 750
+- Total time required --> 0.002878 seconds
